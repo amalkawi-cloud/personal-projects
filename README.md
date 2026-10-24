@@ -1,2 +1,2 @@
 # Personal Projects
-A collection of hands-on projects demonstrating foundational AWS services and cloud architecture principles.
+A collection of hands-on projects exploring cloud computing, Linux, Python, and IT infrastructure.
